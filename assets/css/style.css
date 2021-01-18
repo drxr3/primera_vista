@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    /* background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    width: 100%;*/
+    background: rgb(243, 104, 185);
+}
+header img{
+    width: 100%;
+}
+h1, h2, p{
+    text-align: center;
+}
+.fondo-header{
+    background: cornflowerblue;
+    padding: 2%;
+    margin: 1%;
+}
+.description{
+    margin: 1%;
+    padding: 0 80px;
+    background: cornflowerblue;
+}
+.texto-img{
+    display: inline-block;
+    width: 40%;
+    margin: 1%;
+    padding: 1%;
+}
+.texto-img img{
+    width: 100%;
+    height: 200px;
+    padding-left: auto;
+    margin-left: 20%;
+}
+.h2-description{
+    padding-top: 2%;
+}
+ .juegos{
+     display: inline-block;
+     width: 30%;
+     margin: 0 5px;
+ }
+ .juegos img{
+    width: 100%;
+    height: 200px;
+    
+ }
+ .centrado{
+    margin: 0 auto;/*con esto automatizamos el margen hacia los lados para que la imagen se pueda centrar*/
+    width: 75%;
+}
+.juegos-section{
+    background: cornflowerblue;
+    padding: 2%;
+    margin: 1%;
+}
+
+.section-razones{
+    background: cornflowerblue;
+    padding: 2%;
+    margin: 1%;
+}
+.bloques-razones{
+    display: inline-block;
+    width: 30%;
+    padding: 1px;
+    margin: 1px;
+}
+
+footer{
+    text-align: center;
+    background: cornflowerblue;
+    padding: 2%;
+    margin: 1%;
+}
+
+
